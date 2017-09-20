@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "90CF004818607CA87B4D1EE2B5A5F03F328DEA0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "049792C8AA15017C4A6A9C51D5B99490C9D07239" : 9223372036854775807,
+    "90CF004818607CA87B4D1EE2B5A5F03F328DEA0C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0B7D9B3-E750-4A3E-9B9A-A048615A761D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "049792C8AA15017C4A6A9C51D5B99490C9D07239" : "test\/GoGoGo\/GoGoGo\/",
+    "90CF004818607CA87B4D1EE2B5A5F03F328DEA0C" : "convenientStoreGO\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ProjectGO",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ProjectGO.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gnoocl\/GoGoGo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "049792C8AA15017C4A6A9C51D5B99490C9D07239"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/convenientStoreGO\/convenientStoreGO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90CF004818607CA87B4D1EE2B5A5F03F328DEA0C"
+    }
+  ]
+}

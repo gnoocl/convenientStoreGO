@@ -18,6 +18,22 @@
 		56D1B4E91F6564CB00F1727A /* CommentsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D1B4E81F6564CB00F1727A /* CommentsTableViewCell.swift */; };
 		56D1B4EC1F656F6800F1727A /* writingCommentsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D1B4EB1F656F6800F1727A /* writingCommentsVC.swift */; };
 		56E65FC11F65753200E99C62 /* CosmosDistrib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E65FC01F65753200E99C62 /* CosmosDistrib.swift */; };
+		AEDD88C71F722C80003CED68 /* Page3TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88C61F722C80003CED68 /* Page3TableViewController.swift */; };
+		AEDD88CF1F722C8D003CED68 /* Page2TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88C81F722C8D003CED68 /* Page2TableViewController.swift */; };
+		AEDD88D01F722C8D003CED68 /* Page1TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88C91F722C8D003CED68 /* Page1TableViewController.swift */; };
+		AEDD88D11F722C8D003CED68 /* Page4TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88CA1F722C8D003CED68 /* Page4TableViewController.swift */; };
+		AEDD88D21F722C8D003CED68 /* Page5TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88CB1F722C8D003CED68 /* Page5TableViewController.swift */; };
+		AEDD88D31F722C8E003CED68 /* Page6TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88CC1F722C8D003CED68 /* Page6TableViewController.swift */; };
+		AEDD88D41F722C8E003CED68 /* Page7TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88CD1F722C8D003CED68 /* Page7TableViewController.swift */; };
+		AEDD88D51F722C8E003CED68 /* Page8TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88CE1F722C8D003CED68 /* Page8TableViewController.swift */; };
+		AEDD88D71F722CB3003CED68 /* ProViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88D61F722CB3003CED68 /* ProViewController.swift */; };
+		AEDD88DF1F722F34003CED68 /* ChangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88D81F722F34003CED68 /* ChangeViewController.swift */; };
+		AEDD88E01F722F34003CED68 /* chinese.png in Resources */ = {isa = PBXBuildFile; fileRef = AEDD88D91F722F34003CED68 /* chinese.png */; };
+		AEDD88E11F722F34003CED68 /* english.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AEDD88DA1F722F34003CED68 /* english.jpeg */; };
+		AEDD88E21F722F34003CED68 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88DB1F722F34003CED68 /* FirstViewController.swift */; };
+		AEDD88E31F722F34003CED68 /* RadiusBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88DC1F722F34003CED68 /* RadiusBtn.swift */; };
+		AEDD88E41F722F34003CED68 /* WalkthroughContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88DD1F722F34003CED68 /* WalkthroughContentViewController.swift */; };
+		AEDD88E51F722F34003CED68 /* WalkthroughPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDD88DE1F722F34003CED68 /* WalkthroughPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +50,22 @@
 		56D1B4E81F6564CB00F1727A /* CommentsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommentsTableViewCell.swift; sourceTree = "<group>"; };
 		56D1B4EB1F656F6800F1727A /* writingCommentsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = writingCommentsVC.swift; sourceTree = "<group>"; };
 		56E65FC01F65753200E99C62 /* CosmosDistrib.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CosmosDistrib.swift; sourceTree = "<group>"; };
+		AEDD88C61F722C80003CED68 /* Page3TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page3TableViewController.swift; path = ../../gogogog/Project1/Page3TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88C81F722C8D003CED68 /* Page2TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page2TableViewController.swift; path = ../../gogogog/Project1/Page2TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88C91F722C8D003CED68 /* Page1TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page1TableViewController.swift; path = ../../gogogog/Project1/Project1/Page1TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88CA1F722C8D003CED68 /* Page4TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page4TableViewController.swift; path = ../../gogogog/Project1/Project1/Page4TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88CB1F722C8D003CED68 /* Page5TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page5TableViewController.swift; path = ../../gogogog/Project1/Project1/Page5TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88CC1F722C8D003CED68 /* Page6TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page6TableViewController.swift; path = ../../gogogog/Project1/Project1/Page6TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88CD1F722C8D003CED68 /* Page7TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page7TableViewController.swift; path = ../../gogogog/Project1/Project1/Page7TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88CE1F722C8D003CED68 /* Page8TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Page8TableViewController.swift; path = ../../gogogog/Project1/Project1/Page8TableViewController.swift; sourceTree = "<group>"; };
+		AEDD88D61F722CB3003CED68 /* ProViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProViewController.swift; path = ../../gogogog/Project1/Project1/ProViewController.swift; sourceTree = "<group>"; };
+		AEDD88D81F722F34003CED68 /* ChangeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChangeViewController.swift; path = ../../test/GoGoGo/GoGoGo/ChangeViewController.swift; sourceTree = "<group>"; };
+		AEDD88D91F722F34003CED68 /* chinese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chinese.png; path = ../../test/GoGoGo/GoGoGo/chinese.png; sourceTree = "<group>"; };
+		AEDD88DA1F722F34003CED68 /* english.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = english.jpeg; path = ../../test/GoGoGo/GoGoGo/english.jpeg; sourceTree = "<group>"; };
+		AEDD88DB1F722F34003CED68 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FirstViewController.swift; path = ../../test/GoGoGo/GoGoGo/FirstViewController.swift; sourceTree = "<group>"; };
+		AEDD88DC1F722F34003CED68 /* RadiusBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RadiusBtn.swift; path = ../../test/GoGoGo/GoGoGo/RadiusBtn.swift; sourceTree = "<group>"; };
+		AEDD88DD1F722F34003CED68 /* WalkthroughContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WalkthroughContentViewController.swift; path = ../../test/GoGoGo/GoGoGo/WalkthroughContentViewController.swift; sourceTree = "<group>"; };
+		AEDD88DE1F722F34003CED68 /* WalkthroughPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WalkthroughPageViewController.swift; path = ../../test/GoGoGo/GoGoGo/WalkthroughPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +98,7 @@
 		56D1B4CB1F653D5600F1727A /* ProjectGO */ = {
 			isa = PBXGroup;
 			children = (
+				AEDD88C51F72278B003CED68 /* gnoocl */,
 				56D1B4CC1F653D5600F1727A /* AppDelegate.swift */,
 				56D1B4CE1F653D5600F1727A /* ViewController.swift */,
 				56D1B4D01F653D5600F1727A /* Main.storyboard */,
@@ -88,6 +121,29 @@
 				56E65FC01F65753200E99C62 /* CosmosDistrib.swift */,
 			);
 			name = writingComments;
+			sourceTree = "<group>";
+		};
+		AEDD88C51F72278B003CED68 /* gnoocl */ = {
+			isa = PBXGroup;
+			children = (
+				AEDD88D81F722F34003CED68 /* ChangeViewController.swift */,
+				AEDD88D91F722F34003CED68 /* chinese.png */,
+				AEDD88DA1F722F34003CED68 /* english.jpeg */,
+				AEDD88DB1F722F34003CED68 /* FirstViewController.swift */,
+				AEDD88DC1F722F34003CED68 /* RadiusBtn.swift */,
+				AEDD88DD1F722F34003CED68 /* WalkthroughContentViewController.swift */,
+				AEDD88DE1F722F34003CED68 /* WalkthroughPageViewController.swift */,
+				AEDD88D61F722CB3003CED68 /* ProViewController.swift */,
+				AEDD88C81F722C8D003CED68 /* Page2TableViewController.swift */,
+				AEDD88C91F722C8D003CED68 /* Page1TableViewController.swift */,
+				AEDD88CA1F722C8D003CED68 /* Page4TableViewController.swift */,
+				AEDD88CB1F722C8D003CED68 /* Page5TableViewController.swift */,
+				AEDD88CC1F722C8D003CED68 /* Page6TableViewController.swift */,
+				AEDD88CD1F722C8D003CED68 /* Page7TableViewController.swift */,
+				AEDD88CE1F722C8D003CED68 /* Page8TableViewController.swift */,
+				AEDD88C61F722C80003CED68 /* Page3TableViewController.swift */,
+			);
+			name = gnoocl;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,6 +206,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				56D1B4D71F653D5600F1727A /* LaunchScreen.storyboard in Resources */,
+				AEDD88E11F722F34003CED68 /* english.jpeg in Resources */,
+				AEDD88E01F722F34003CED68 /* chinese.png in Resources */,
 				56D1B4D41F653D5600F1727A /* Assets.xcassets in Resources */,
 				56D1B4D21F653D5600F1727A /* Main.storyboard in Resources */,
 			);
@@ -162,13 +220,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDD88DF1F722F34003CED68 /* ChangeViewController.swift in Sources */,
 				56D1B4E51F6555DF00F1727A /* commentsTVC.swift in Sources */,
+				AEDD88CF1F722C8D003CED68 /* Page2TableViewController.swift in Sources */,
 				56D1B4E31F65486400F1727A /* descriptionVC.swift in Sources */,
+				AEDD88E51F722F34003CED68 /* WalkthroughPageViewController.swift in Sources */,
+				AEDD88C71F722C80003CED68 /* Page3TableViewController.swift in Sources */,
 				56D1B4DF1F653E7700F1727A /* DetailViewController.swift in Sources */,
+				AEDD88D51F722C8E003CED68 /* Page8TableViewController.swift in Sources */,
+				AEDD88D11F722C8D003CED68 /* Page4TableViewController.swift in Sources */,
+				AEDD88D21F722C8D003CED68 /* Page5TableViewController.swift in Sources */,
+				AEDD88E41F722F34003CED68 /* WalkthroughContentViewController.swift in Sources */,
 				56E65FC11F65753200E99C62 /* CosmosDistrib.swift in Sources */,
+				AEDD88E31F722F34003CED68 /* RadiusBtn.swift in Sources */,
+				AEDD88D71F722CB3003CED68 /* ProViewController.swift in Sources */,
+				AEDD88E21F722F34003CED68 /* FirstViewController.swift in Sources */,
 				56D1B4E91F6564CB00F1727A /* CommentsTableViewCell.swift in Sources */,
+				AEDD88D31F722C8E003CED68 /* Page6TableViewController.swift in Sources */,
 				56D1B4CF1F653D5600F1727A /* ViewController.swift in Sources */,
+				AEDD88D41F722C8E003CED68 /* Page7TableViewController.swift in Sources */,
 				56D1B4EC1F656F6800F1727A /* writingCommentsVC.swift in Sources */,
+				AEDD88D01F722C8D003CED68 /* Page1TableViewController.swift in Sources */,
 				56D1B4CD1F653D5600F1727A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
